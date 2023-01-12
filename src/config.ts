@@ -6,7 +6,7 @@ export const SITE = {
   desc: "Personal website and blog",
   title: "thatdevsherry",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerPage: 3,
 };
 
